@@ -1,0 +1,42 @@
+body { 
+	background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png");
+	background-color: #F5F5F5;
+	font-family: Lato;
+	color: black;
+}
+
+.navbar-default {
+	background: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+
+.navbar-default .navbar-brand {
+	color: black;
+}
+
+#content {
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.form-horizontal {
+	padding-top: 15%;
+	padding: 25%;
+}
+
+.form-inline {
+	padding-top: 15%;
+	padding: 25%;
+}
+
+address {
+	text-align: center;
+	padding-top: 5%;
+}
+
+a:link {
+    color: #F5F5F5;
